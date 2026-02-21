@@ -1,0 +1,28 @@
+export const translations = {
+  ar: {
+    heroTitle: "درع الابتكار الصحي",
+    heroDesc: "منصة رقمية لإدارة وتمكين الابتكار في القطاع الصحي بمدينة الطائف",
+    joinButton: "انضم كمبتكر",
+    challengeButton: "اطرح تحدي صحي",
+    statsHospitals: "منشأة صحية مشاركة",
+    statsTeams: "فريق ابتكاري",
+    statsProjects: "مشروع قيد التطوير",
+    dashboardTitle: "لوحة التحكم",
+    teamsTitle: "الفرق الابتكارية",
+    challengesTitle: "التحديات الصحية",
+    aiTitle: "مساعد الابتكار",
+  },
+  en: {
+    heroTitle: "Health Innovation Shield",
+    heroDesc: "A digital platform to manage and empower innovation in the healthcare sector in Taif",
+    joinButton: "Join as Innovator",
+    challengeButton: "Submit Health Challenge",
+    statsHospitals: "Participating Healthcare Facilities",
+    statsTeams: "Innovation Teams",
+    statsProjects: "Projects in Progress",
+    dashboardTitle: "Dashboard",
+    teamsTitle: "Innovation Teams",
+    challengesTitle: "Health Challenges",
+    aiTitle: "Innovation Assistant",
+  },
+};
